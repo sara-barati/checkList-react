@@ -1,0 +1,35 @@
+body{
+  padding: 0%;margin: 0%;
+}
+.app{
+  display: flex;
+  justify-content:space-between;
+  text-align: center;
+}
+.allitem{
+  background-color:rgb(226, 207, 248);
+width: 50%;
+
+}
+.allitem h3{
+ 
+  width: 100%;
+
+}
+.items{
+  padding-left: 5%;
+}
+.selected{
+  width: 50%;
+  background-color: rgb(245, 225, 228);
+
+}
+.selected h3{
+
+  width: 100%;
+
+
+}
+hr{
+  width: 50%;  text-align: center;
+}
