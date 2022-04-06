@@ -13,4 +13,4 @@ export default function Selecteditem() {
         {name.map(item=><p>{item.name}</p> )}
     </div>
   )
-}
+  }
